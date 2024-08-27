@@ -17,7 +17,7 @@ void main() async {
   // Initialize Firebase with specific options
   await Firebase.initializeApp(
     options: FirebaseOptions(
-        apiKey: 'AIzaSyDMW3Esrkr3L2qnLXk2qwA9AxvvOV1uKOU',
+        apiKey: '',
         appId: '1:448267594220:android:ed24b2da259e643a3a38c9',
         messagingSenderId: '448267594220',
         projectId: 'snappulse-4d764',
