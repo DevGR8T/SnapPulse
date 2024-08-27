@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448267594220",
+    "project_id": "snappulse-4d764",
+    "storage_bucket": "snappulse-4d764.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448267594220:android:ed24b2da259e643a3a38c9",
+        "android_client_info": {
+          "package_name": "com.example.snap_pulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMW3Esrkr3L2qnLXk2qwA9AxvvOV1uKOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
